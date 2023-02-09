@@ -3,7 +3,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=medba-fnd&label=Profile%20views&color=0e75b6&style=flat" alt="medba-fnd" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=medba-fnd" alt="medba-fnd" /></a> </p>
 
 - 🌱 currently learning **about adavanced reactJs and ci/cd tools**
 
