@@ -2,7 +2,7 @@
 <h3 align="center">Full Stack Web Developer|DevOps enthusiast</h3>
 
 
-- 🌱 currently learning **about adavanced reactJs and ci/cd tools**
+- 🌱 currently learning **about adavanced ReactJs and ci/cd tools**
 
 - 💬 Ask me about **MERN stack and, problème solving,Linux,System Administration, Computer Networking**
 
