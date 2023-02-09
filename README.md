@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I'm Mohamed Ba</h1>
 <h3 align="center">Full Stack Web Developer|DevOps enthusiast</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=medba-fnd&label=Profile%20views&color=0e75b6&style=flat" alt="medba-fnd" /> </p>
-
 
 - 🌱 currently learning **about adavanced reactJs and ci/cd tools**
 
