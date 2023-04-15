@@ -4,7 +4,7 @@
 
 - 🌱 currently learning **about adavanced ReactJs and ci/cd tools**
 
-- 💬 Ask me about **MERN stack and, problème solving,Linux,System Administration, Computer Networking**
+- 💬 Ask me about **MERN stack and, problème solving, Linux,System Administration, Computer Networking**
 
 - 📫 How to reach me **mohamed.abdoulah.ba@gmail.com**
 
