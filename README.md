@@ -2,11 +2,11 @@
 <h3 align="center">Full Stack Web Developer|DevOps enthusiast</h3>
 
 
-- 🌱 currently learning **about adavanced ReactJs and ci/cd tools**
+- 🌱 currently learning and working **Odoo development and CI/CD tools**
 
-- 💬 Ask me about **MERN stack and, problème solving, Linux,System Administration, Computer Networking**
+- 💬 Ask me about **MERN stack and, problème solving, Linux, Computer Networking and  odoo development, I am happy to help.**
 
-- 📫 How to reach me **mohamed.abdoulah.ba@gmail.com**
+- 📫 You can reach me at **mohamed.abdoulah.ba@gmail.com**
 
 - 📄 Know about my experiences [https://drive.google.com/file/d/1FwuzjlpaSefMjW8gx14IONHGczPWtKTk/view?usp=sharing](https://drive.google.com/file/d/1FwuzjlpaSefMjW8gx14IONHGczPWtKTk/view?usp=sharing)
 
