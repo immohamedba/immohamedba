@@ -4,7 +4,7 @@
 
 - 🌱 currently learning and working **Odoo development and CI/CD tools**
 
-- 💬 Ask me about **MERN stack, problème solving, Linux, Computer Networking and  odoo development, I am happy to help.**
+- 💬 Ask me about <h4> **MERN stack, problème solving, Linux, Computer Networking and  odoo development, I am happy to help.**</h4>
 
 - 📫 You can reach me at **mohamed.abdoulah.ba@gmail.com**
 
