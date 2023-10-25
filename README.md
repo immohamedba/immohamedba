@@ -55,8 +55,7 @@
     <td align="center" width="96">  
    <a href="https://firebaase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a> 
     </td>
-    
-     <td align="center" width="96">  
+    <td align="center" width="96">  
    <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> 
     </td> 
   </tr>
