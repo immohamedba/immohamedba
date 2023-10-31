@@ -2,7 +2,7 @@
 <h3 align="center">Full Stack Web Developer|DevOps enthusiast</h3>
 
 
-- 🌱 currently learning and working **Odoo development and CI/CD tools**
+- 🌱 Actively honing skills as a Full Stack Web Developer while nurturing a passion for **DevOps**. Currently immersed in **Odoo** development and hands-on with **CI/CD tools**
 
 - 💬 Ask me about MERN stack, problème solving, Linux, Computer Networking and  odoo development, I am happy to help.
 
