@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Mohamed Ba</h1>
-<h3 align="center">Full Stack Web Developer|DevOps enthusiast</h3>
+<h3 align="center">Python|Odoo Developer || DevOps enthusiast</h3>
 
 
 - 🌱 Actively honing skills as a Full Stack Web Developer while nurturing a passion for **DevOps**. Currently immersed in **Odoo** development and hands-on with **CI/CD tools**
