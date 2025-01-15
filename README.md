@@ -1,3 +1,4 @@
+
 <h1 align="center">Hi 👋, I'm Mohamed Ba</h1>
 <h3 align="center">Python|Odoo Developer || DevOps enthusiast</h3>
 
@@ -6,7 +7,7 @@
 
 - 💬 Ask me about MERN stack, problème solving, Linux, Computer Networking and  odoo development, I am happy to help.
 
-- 📫 You can reach me at **mohamed.abdoulah.ba@gmail.com**
+<!-- - 📫 You can reach me at **mohamed.abdoulah.ba@gmail.com**  -->
 
 <!-- - 📄 Know about my experiences : <a href="https://drive.google.com/file/d/1FwuzjlpaSefMjW8gx14IONHGczPWtKTk/view?usp=sharing" style="text-decoration: none;" > My resume </a> -->
 
